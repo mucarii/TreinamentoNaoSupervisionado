@@ -31,3 +31,4 @@ O script realiza os seguintes passos:
 ## Bibliotecas Utilizadas
  - matplotlib: Para visualização dos dados e dos clusters.
  - scikit-learn: Para gerar dados e aplicar o algoritmo KMeans.
+  
